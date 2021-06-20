@@ -1,0 +1,26 @@
+{
+  "name": "hello-node",
+  "version": "0.0.1",
+  "description": "A simple Node app built on fastify, instantly up and running.",
+  "main": "./src/server.js",
+  "scripts": {
+    "start": "node ./src/server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "discord.js": "^12.5.3",
+    "fs": "^0.0.2"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/glitch-hello-node"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
